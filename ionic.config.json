@@ -1,0 +1,7 @@
+{
+  "name": "reciep-app",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
